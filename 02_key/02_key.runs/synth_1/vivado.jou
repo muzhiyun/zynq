@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Oct  7 20:22:46 2022
+# Process ID: 736
+# Current directory: C:/Users/MuZhi/Desktop/zynq/S9/ZYNQ/02_key/02_key.runs/synth_1
+# Command line: vivado.exe -log key.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source key.tcl
+# Log file: C:/Users/MuZhi/Desktop/zynq/S9/ZYNQ/02_key/02_key.runs/synth_1/key.vds
+# Journal file: C:/Users/MuZhi/Desktop/zynq/S9/ZYNQ/02_key/02_key.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source key.tcl -notrace
