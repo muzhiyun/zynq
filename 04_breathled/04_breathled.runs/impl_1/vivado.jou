@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Oct  8 01:07:29 2022
+# Process ID: 7068
+# Current directory: C:/Users/MuZhi/Desktop/zynq/S9/zynq/04_breathled/04_breathled.runs/impl_1
+# Command line: vivado.exe -log breath_led.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source breath_led.tcl -notrace
+# Log file: C:/Users/MuZhi/Desktop/zynq/S9/zynq/04_breathled/04_breathled.runs/impl_1/breath_led.vdi
+# Journal file: C:/Users/MuZhi/Desktop/zynq/S9/zynq/04_breathled/04_breathled.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source breath_led.tcl -notrace

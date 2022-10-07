@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/MuZhi/Desktop/zynq/S9/zynq/04_breathled/04_breathled.srcs/constrs_1/new/breath_led.xdc rfile:../../../04_breathled.srcs/constrs_1/new/breath_led.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN K17 [get_ports clk]
+set_property src_info {type:XDC file:1 line:5 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN J18 [get_ports rst_n]
+set_property src_info {type:XDC file:1 line:6 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN F16 [get_ports led]

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Oct  8 00:13:10 2022
+# Process ID: 10136
+# Current directory: C:/Users/MuZhi/Desktop/zynq/S9/zynq/03_keydebounce/03_keydebounce.runs/synth_1
+# Command line: vivado.exe -log keydebounce.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source keydebounce.tcl
+# Log file: C:/Users/MuZhi/Desktop/zynq/S9/zynq/03_keydebounce/03_keydebounce.runs/synth_1/keydebounce.vds
+# Journal file: C:/Users/MuZhi/Desktop/zynq/S9/zynq/03_keydebounce/03_keydebounce.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source keydebounce.tcl -notrace
