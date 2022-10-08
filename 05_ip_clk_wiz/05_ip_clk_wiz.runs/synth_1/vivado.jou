@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Oct  8 14:38:51 2022
+# Process ID: 3928
+# Current directory: C:/Users/MuZhi/Desktop/zynq/S9/zynq/05_ip_clk_wiz/05_ip_clk_wiz.runs/synth_1
+# Command line: vivado.exe -log ip_clk_wiz.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ip_clk_wiz.tcl
+# Log file: C:/Users/MuZhi/Desktop/zynq/S9/zynq/05_ip_clk_wiz/05_ip_clk_wiz.runs/synth_1/ip_clk_wiz.vds
+# Journal file: C:/Users/MuZhi/Desktop/zynq/S9/zynq/05_ip_clk_wiz/05_ip_clk_wiz.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ip_clk_wiz.tcl -notrace
